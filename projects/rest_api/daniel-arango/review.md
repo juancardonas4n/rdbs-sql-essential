@@ -34,5 +34,5 @@ Date:   Thu Feb 23 17:38:53 2023 -0500
 * Meaningful status codes
 * Richardson model application
 * Authentification
-* Pagination
-* Caching
+* Pagination![image-20230227115009451](/home/juancardona/Workbench/rdbs-sql-essential/images/image-20230227115009451.png)
+* Caching![image-20230227115052357](/home/juancardona/Workbench/rdbs-sql-essential/images/image-20230227115052357.png)
