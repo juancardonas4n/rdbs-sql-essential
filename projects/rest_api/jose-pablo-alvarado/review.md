@@ -7,14 +7,14 @@
 ## Criteria
 | Criteria                                       | Description                                                  | Points |
 | :--------------------------------------------- | ------------------------------------------------------------ | ------ |
-| **Functional and non-functional requirements** | There are not functional and non-functional requirements, but there a set of uses cases that tries to represent as requirements. | 2      |
-| **Model description**                          | There a description with main entities, but the differents and possible relationships are omitted. | 2      |
-| **Operations descriptions**                    | The primary operations are described with detail, no only the endpoints, but also describe the caching and paging, with authentication. | 7      |
-| **Meaningful status codes**                    | Each operation contains the status codes and explaining with detail the different possible status code. | 7      |
+| **Functional and non-functional requirements** | There are no functional or non-functional requirements, but a set of use cases tries to represent requirements. | 2      |
+| **Model description**                          | The leading entities are described, but the different and possible relationships are omitted. | 2      |
+| **Operations descriptions**                    | The primary operations are described in detail, not only the endpoints but also the caching and paging, with authentication. | 7      |
+| **Meaningful status codes**                    | Each operation contains the status codes and explains in detail the possible status codes. | 7      |
 | **Richardson model application**               | The last level of the Richardson model is missing.           | 4      |
-| **Authentication**                             | There is a operation for authentication.                     | 7      |
-| **Pagination**                                 | There are different description how to manage pagination on different operations. | 7      |
-| **Caching**                                    | There are different description how to manage caching on different operations. | 7      |
+| **Authentication**                             | There is an authentication operation.                        | 7      |
+| **Pagination**                                 | There are different descriptions of how to manage pagination on other operations. | 7      |
+| **Caching**                                    | There are different descriptions of how to manage caching on other operations. | 7      |
 | **Total**                                      |                                                              | 43     |
 
 ## Notes
