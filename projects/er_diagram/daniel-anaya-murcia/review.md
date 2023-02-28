@@ -1,8 +1,8 @@
-# User
+# Daniel Anaya Murcia
 
-## Project
+## Air Tickets
 
-* email: 
+* email: danmur98@gmail.com
 
 ## Criterias
 | Criteria                                | Description                                                  | Points |

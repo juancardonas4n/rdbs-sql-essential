@@ -7,7 +7,7 @@
 ## Criterias
 | Criteria                                | Description                                                  | Points |
 | :-------------------------------------- | ------------------------------------------------------------ | ------ |
-| **Description of the entities**         | The entities are well describe and completes, there are entities as: `Passenger`, `Payment`, `Tickec | 4      |
+| **Description of the entities**         | The entities are well describe and completes, there are entities as: `Passenger`, `Payment`, `TickecThe entities are well described and completes; there are entities as: `Passenger`, `Payment`, `Ticket`. | 4      |
 | **High-Level Over. Functions and case** | There are many use cases, but all are about searching, none about registering tickets (selling), fights, planes, crew, etc. Those searching use cases show a big scene about it is incomplete. | 4      |
 | **ER diagram**                          | The ER diagram is complete, it has all entitites previously described with their corresponding relationships. | 8      |
 

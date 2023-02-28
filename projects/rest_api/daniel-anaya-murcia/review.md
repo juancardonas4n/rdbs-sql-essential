@@ -19,10 +19,10 @@ Date:   Mon Feb 27 11:29:48 2023 +0000
 | **Operations descriptions**                    | There are descriptions for operations: Creating a user, User login, User logout, Updating User, Deleting User, Creating Books, Query Books, etc. | 7      |
 | **Meaningful status codes**                    | Each operation indicates which status codes manage.          | 7      |
 | **Richardson model application**               | The model manages hyperlinks.                                | 7      |
-| **Authentication**                             | There is authentication, but the code error is not the expected. | 4      |
+| **Authentication**                             | There is authentication, and there are the expected code errors. | 7      |
 | **Pagination**                                 | Some operations use pagination parameters.                   | 7      |
-| **Caching**                                    | There are no caching operations.                             | 0      |
-| **Total**                                      |                                                              | 38     |
+| **Caching**                                    | There are caching in some operations.                        | 7      |
+| **Total**                                      |                                                              | 48     |
 
 ## Notes
 
